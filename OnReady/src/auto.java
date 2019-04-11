@@ -4,7 +4,7 @@ import java.util.Comparator;
 import java.util.List;
 
 public class auto implements Comparable<auto>{
-	//probando
+
 	private String marca;
 	private String modelo;
 	private int puertas;
