@@ -44,8 +44,6 @@ public class main {
 		
 		for(int j = 0 ; j < autos.size() ; j++)
 		{
-			
-			//System.out.println(autos.get(j).getPrecio());
 			marcabarata = autos.get(0).getMarca();
 			modelobarato = autos.get(0).getModelo();
 			
